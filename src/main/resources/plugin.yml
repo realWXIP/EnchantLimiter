@@ -1,0 +1,8 @@
+main: eu.adventurelands.EnchantLimiter.Main
+name: EnchantLimiter
+description: A custom EnchantLimiter plugin made by wxip#3544.
+version: 1.0
+api-version: 1.16
+commands:
+  limiter:
+    description: Config reload command.
